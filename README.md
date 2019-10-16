@@ -16,3 +16,4 @@ Ce projet est développé à l'aide de plusieurs ressources notamment:
  datatables.net 
 http://rosettacode.org/wiki/Rosetta_Code
  https://themewagon.com/theme_tag/open-source/
+ 
