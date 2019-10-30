@@ -81,6 +81,9 @@ CREATE TABLE `user` (
   `access` int(1) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
+--
+-- Indexes for dumped tables
+--
 
 --
 -- Indexes for table `chat`
@@ -105,6 +108,10 @@ ALTER TABLE `chat_member`
 --
 ALTER TABLE `user`
   ADD PRIMARY KEY (`userid`);
+
+--
+-- AUTO_INCREMENT for dumped tables
+--
 
 --
 -- AUTO_INCREMENT for table `chat`
