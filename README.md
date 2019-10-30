@@ -17,3 +17,5 @@ Ce projet est développé à l'aide de plusieurs ressources notamment:
 http://rosettacode.org/wiki/Rosetta_Code
  https://themewagon.com/theme_tag/open-source/
  
+ 
+ #remarque: la session admin a comme userid: admin et comme mot de passe :admin
